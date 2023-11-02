@@ -54,7 +54,7 @@
       <div class="overflow-hidden flex flex-wrap gap-x-16 mb-24">
         <h3 class="mr-28 my-auto p-1 w-56 font-medium text-white text-center bg-blue-800">Minggu, 10 Desember 2023</h3>
         <p class="my-auto font-semibold text-lg ml-6">Everton</p>
-        <img class="h-24" src="../assets/images/per7.PNG" />
+        <img class="h-24" src="../assets/images/per7.png" />
         <p class="my-auto font-light mr-6">22.00 WITA</p>
         <img class="h-24" src="../assets/images/per1.png" />
         <p class="my-auto font-semibold text-lg">Chelsea</p>
