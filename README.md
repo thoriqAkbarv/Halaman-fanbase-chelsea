@@ -1,75 +1,20 @@
-# Nuxt 3 Minimal Starter
+D121211024 // THORIQ AKBAR VIRGIAWAN // KELAS A
+# Halaman Web Fanbase Chelsea
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Halaman web ini merupakan alternatif lain yang dibuat untuk fans Chelsea agar dapat melihat beberapa informasi seputar Chelsea. 
 
-## Setup
+## Fitur
 
-Make sure to install the dependencies:
+Di dalam projek ini terdapat 4 halaman yang masing - masing halaman menyajikan informasi - informasi seputar Chelsea.
+Di halaman pertama ada namanya halaman beranda atau halaman home dimana menyajikan beberapa informasi antara lain, tentang jumlah piala yang didapat, momen - momen yang diabadikan atau berkenang di Chelsea.
+Berikutnya ada halaman berita yang menyajikan beberapa berita mengenai chelsea.
+Berikutnya ada halaman highlight dari pertandingan  yang telah dilalui Chelsea.
+Lalu yang terakhir ada halaman jadwal dari pertandingan Chelsea yang akan dihadapi kedepannya.
 
-```bash
-# npm
-npm install
+## Penggunaan Aplikasi
 
-# pnpm
-pnpm install
+Penggunaannya sangat mudah, tinggal klik bagian header mau lihat halaman apa dan sebagainya.
 
-# yarn
-yarn install
+## Tampilan WebApp
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+https://halaman-fanbase-chelsea.vercel.app/Home
